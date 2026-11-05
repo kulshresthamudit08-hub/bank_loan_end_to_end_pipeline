@@ -7,7 +7,7 @@ To analyze loan default risk and build a risk scoring system to identify high-ri
 
 # Project Structure 
 
-#1.Excel for Business Analysis
+# 1.Excel for Business Analysis
 - `Business_Insights_Scenario` - What-if analysis for business decisions
 - `GOAL_SEEK` - Goal seek for target recovery / profit
 - `Pivot1`, `Pivot2` - Pivot tables for loan purpose, default analysis
@@ -18,7 +18,7 @@ To analyze loan default risk and build a risk scoring system to identify high-ri
 - Segmented Risk Analysis: `education_default`, `gender_default`, `home_ownership_default`, `loan_intent_default`
 - Advanced Analysis: `Conditional_query_AGE_Analysis`, `Window_Function_Risk_analysis
 
-#3. Python- EDA + ML Model
+# 3. Python- EDA + ML Model
 - EDA
 - Data Cleaning: `null_checking`, `duplicate_check`, `outlier_detection`, `2outlier_detection`, `outlier_removal`
 - Visualization: heatmap,confusion matrix
@@ -37,7 +37,7 @@ To analyze loan default risk and build a risk scoring system to identify high-ri
 - Random Forest model helps predict potential defaulters
 - RLS implemented for secure region/manager wise access
 
-#Tools Used
+# Tools Used
 Excel (Scenario, Goal Seek, Pivot) | MySQL (Window Functions, Rank, Row Number) | Python (Pandas, Seaborn, Sklearn) | Power BI (RLS, DAX)
 
 ---
